@@ -1,0 +1,8 @@
+body{
+    background-image: "https://external-preview.redd.it/JKVf8cAiCwy6JJUgUIsRJGAVoVln3yPTEH_s0viSQKs.jpg?auto=webp&s=2fb05f618a7215354774b77197159427af4f5a34";
+}
+
+.table{
+    display:grid;
+    grid-template-columns: auto;
+}

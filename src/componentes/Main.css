@@ -1,3 +1,50 @@
+*{
+   
+}
+.button{
+    text-decoration: none;
+}
+.app-container{
+    background-image: url('https://images8.alphacoders.com/110/thumb-1920-1102284.jpg');
+    width:100vw;
+    height: 100vh;
+    overflow-x:hidden;
+    display: grid;
+    grid-template-rows: 15vh 50vh;
+    justify-content: center;
+    text-decoration: none;
+}
+
 .Main{
     font-family: 'Harry Potter', sans-serif;
 }
+
+
+.body-container{
+    height: 85vh;
+    width: 95vw;
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    align-items: center;
+    background-color: rgb(0, 0, 0,.4);
+    margin-left: 100px;
+    margin-right: 100px;
+text-decoration: none;
+
+}
+
+.table{  
+    background-color: rgb(0, 0, 0,.4);
+    height: 85vh;
+    width: 95vw;
+    display: grid;
+    grid-template-columns: 21vw 21vw 21vw 21vw ;
+    gap: 20px;
+    justify-content: center;
+    padding-top: 50px;
+    overflow-y: scroll;
+    text-decoration: none;
+}
+
+::-webkit-scrollbar {display: none;}

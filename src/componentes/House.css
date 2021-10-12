@@ -1,0 +1,152 @@
+*{
+    color:white;
+    text-decoration: none;
+}
+
+.container-house{
+    background-color:#903329;
+    width: 23vw;
+    height: 65vh;
+    overflow: hidden;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto;
+    grid-template-rows:50vh 5vh;
+    align-items: center;
+    text-decoration: none;
+ 
+}
+
+.logo-house{
+    display: flex;
+ 
+    width: 8vw;
+}
+
+
+.griffindor{
+    background-color:#903329;
+    width: 18vw;
+    height: 45vh;
+    overflow: hidden;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto;
+    grid-template-rows:37vh 1vh;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: none;
+
+}
+
+.griffindor:hover{
+    background-color:#5c221b;
+    width: 18vw;
+    height: 45vh;
+    overflow: hidden;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto;
+    grid-template-rows:37vh 1vh;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: none;
+
+}
+
+
+.hufflepuff{
+    background-color:#BC9047;
+    width: 18vw;
+    height: 45vh;
+    overflow: hidden;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto;
+    grid-template-rows:37vh 1vh;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+.hufflepuff:hover{
+    background-color:#8a6833;
+    width: 18vw;
+    height: 45vh;
+    overflow: hidden;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto;
+    grid-template-rows:37vh 1vh;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: none;
+
+}
+
+.slytherin{
+    background-color:#275052;
+    width: 18vw;
+    height: 45vh;
+    overflow: hidden;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto;
+    grid-template-rows:37vh 1vh;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+
+.slytherin:hover{
+    background-color:#193536;
+    width: 18vw;
+    height: 45vh;
+    overflow: hidden;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto;
+    grid-template-rows:37vh 1vh;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+
+.ravenclaw{
+    background-color:#182D4C;
+    width: 18vw;
+    height: 45vh;
+    overflow: hidden;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto;
+    grid-template-rows:37vh 1vh;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.ravenclaw:hover{
+    background-color:#0f1d31;
+    width: 18vw;
+    height: 45vh;
+    overflow: hidden;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto;
+    grid-template-rows:37vh 1vh;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+
+

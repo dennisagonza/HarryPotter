@@ -1,13 +1,19 @@
-.nav{
-    background-color: white;
+.navw{
+    padding-top: 20px;
     overflow: hidden;
     margin: auto;
-    text-decoration-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 95vw;
+    height: 12vh;
+    background-color: rgb(0, 0, 0,.2);
+ 
 }
 
-.nav a{
-    color: black;
+.navw a{
+    color:white;
     line-height:100px;
-    font-size: 50px;
+    font-size: 60px;
     font-family: 'Harry Potter', sans-serif;
 }

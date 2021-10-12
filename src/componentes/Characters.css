@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+
+*{text-transform: capitalize;
+    font-family: 'Playfair Display', serif;
+}
+
+.cont{
+    background-color:  #CECECE;
+    height:60vh;
+    width: 18vw;
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start
+
+}
+
+
+.image{
+    width: 20vw;
+    height: 60vh;
+}
+
+.no-image{
+    padding-top: 10vh;
+    width: 7vw;
+}
+
+
+
+
+
+.Slytherin-info{
+    background-color:#275052;
+    position: absolute;
+    width: 18vw;
+    bottom: .1vh;
+}
+
+.Gryffindor-info{
+    background-color: rgb(137, 55, 45);
+    position: absolute;
+    width: 18vw;
+    bottom: .1vh;
+}
+
+.Ravenclaw-info{
+    background-color: #182D4C;
+    position: absolute;
+    width: 18vw;
+    bottom: .1vh;
+}
+
+.Hufflepuff-info{
+    background-color: #BC9047;
+    position: absolute;
+    width: 18vw;
+    bottom: .1vh;
+}
+
+
